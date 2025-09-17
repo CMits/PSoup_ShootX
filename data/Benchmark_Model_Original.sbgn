@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="activity flow">
+    <glyph id="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb" class="compartment">
+      <bbox x="-2588.724218908261" y="1669.0355047816338" w="1074.5627020437264" h="582.412169250912"/>
+    </glyph>
+    <glyph id="d76d2811-fae7-9ce6-3b43-4e06e29e5e85" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="SL"/>
+      <bbox x="-2213.581421935124" y="1913.1700341062356" w="60" h="30"/>
+      <glyph id="d76d2811-fae7-9ce6-3b43-4e06e29e5e85_0" class="unit of information">
+        <label text="SL"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2208.597684850951" y="1907.1700341062356" w="13.00830078125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="3eb14416-951e-0d0d-a310-85f7ced5cb6c" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="BRC1_2"/>
+      <bbox x="-2096.8452350278185" y="2126.8581800525108" w="60" h="30"/>
+      <glyph id="3eb14416-951e-0d0d-a310-85f7ced5cb6c_0" class="unit of information">
+        <label text="BRC1_2"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2083.415917676508" y="2120.8581800525108" w="36.01806640625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="a0fb3385-142e-dfce-a2ea-f9d2189c1076" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="CK"/>
+      <bbox x="-2226.0712817928525" y="2126.8348258156548" w="60" h="30"/>
+      <glyph id="a0fb3385-142e-dfce-a2ea-f9d2189c1076_0" class="unit of information">
+        <label text="CK"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2221.111643751018" y="2120.8348258156548" w="14.50244140625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_440b39be-a505-469e-9ef8-bf3aa82e63ee" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Aux_Shoot"/>
+      <bbox x="-2506.1264291719813" y="1925.1942675142227" w="60" h="30"/>
+      <glyph id="nwtUOI_9333765a-57fb-4613-917f-672c09323df3" class="unit of information">
+        <label text="Aux"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2501.215272732969" y="1919.1942675142227" w="17.50830078125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_82a8d94f-32a9-4040-8af3-fc67c5041701" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="ABA"/>
+      <bbox x="-1777.7462241065791" y="2201.818670630973" w="67.21713927086313" h="28.68351992103613"/>
+      <glyph id="nwtUOI_52d0d936-2834-4543-a61a-bfab5b2f6e6b" class="unit of information">
+        <label text="ABA"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1755.9128231014686" y="2195.818670630973" w="20.0087890625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="ad2aa3b9-98ee-bc6e-963f-9a75d3a1eb4d" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Bud_release"/>
+      <bbox x="-1789.4526492690907" y="2115.009878444496" w="93.40468295084968" h="42.14715743667259"/>
+    </glyph>
+    <glyph id="cdeb983e-add4-a58b-6b75-5f893aa48e6e" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="PAT_Bud"/>
+      <bbox x="-2471.4085685598898" y="2008.4796950211548" w="60" h="30"/>
+      <glyph id="cdeb983e-add4-a58b-6b75-5f893aa48e6e_0" class="unit of information">
+        <label text="PIN_1_3_4_7"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2463.357346281664" y="2002.4796950211548" w="48" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="c07d06c9-9e29-5cf9-9dfa-def056077fd6" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Aux_Bud"/>
+      <bbox x="-2570.559291759487" y="2006.8127618163626" w="60" h="30"/>
+      <glyph id="c07d06c9-9e29-5cf9-9dfa-def056077fd6_0" class="unit of information">
+        <label text="Aux_Bud"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2565.9709916082775" y="2000.8127618163626" w="38.52734375" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="c069b28c-39f4-5ecc-6d51-a3839d6844ad" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="SUC"/>
+      <bbox x="-2154.9231704057606" y="2035.3196720123424" w="60" h="30"/>
+      <glyph id="c069b28c-39f4-5ecc-6d51-a3839d6844ad_0" class="unit of information">
+        <label text="SUC"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2150.068363198099" y="2029.3196720123424" w="21.001953125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="f868e1a6-c28d-413e-49d6-9332301251df" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Sustained_growth"/>
+      <bbox x="-1625.82659240716" y="2121.1400740081713" w="94.41694607057234" h="44.17168367611801"/>
+    </glyph>
+    <glyph id="nwtN_0ce4a29d-6288-457c-b30b-b9d35ae8b722" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="GA"/>
+      <bbox x="-1829.55052219135" y="1986.2374009611458" w="60" h="30"/>
+      <glyph id="nwtUOI_f7e33340-f84b-4118-a529-744308e9c433" class="unit of information">
+        <label text="GA"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1824.5989644166525" y="1980.2374009611458" w="15.00341796875" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_fe6f6034-793b-4283-8306-7296ca71847c" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Decap_signal"/>
+      <bbox x="-2506.368043507691" y="1828.9768761887312" w="60" h="30"/>
+      <glyph id="nwtUOI_117d648f-eb06-42f8-a767-f3af6710aa34" class="unit of information">
+        <label text="Decap_signal"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2501.948688668981" y="1822.9768761887312" w="48" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_a351df6c-48f3-4df7-b93a-ced4901e4288" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="CXE"/>
+      <bbox x="-2213.1672008087844" y="1956.9468412562017" w="60" h="30"/>
+      <glyph id="nwtUOI_32710d58-e2ac-4db6-866a-626256a032c2" class="unit of information">
+        <label text="CXE"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2208.304384213522" y="1950.9468412562017" w="20.50537109375" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_9017b46a-d6f9-49a4-8f39-15e615d65ab8" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="SMXL6_7_8"/>
+      <bbox x="-1994.0148066457346" y="1855.628205609008" w="60" h="30"/>
+      <glyph id="nwtUOI_f6723d38-7b10-40ff-a13c-f08fddfa894a" class="unit of information">
+        <label text="SMXL6_7_8"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1989.1198107409966" y="1849.628205609008" w="48" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_697ba295-3dbb-45b9-9981-b410053929c1" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="FHY3_FAR1"/>
+      <bbox x="-1726.611290122081" y="1864.1361321595061" w="60" h="30"/>
+      <glyph id="nwtUOI_acf665f5-0165-40ef-8357-9959c8613ad2" class="unit of information">
+        <label text="FHY3_FAR1"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1722.1919352833713" y="1858.1361321595061" w="48" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="b58702a8-5ba7-3f41-c295-28d030ddf6ea" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="SPL9_15"/>
+      <bbox x="-1994.731505210045" y="1947.2878400600769" w="60.197506746527054" h="34.374270973924155"/>
+      <glyph id="b58702a8-5ba7-3f41-c295-28d030ddf6ea_0" class="unit of information">
+        <label text="SPL9_15"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1976.640475132792" y="1941.2878400600769" w="39.03271484375" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_a8557400-5faf-47ea-8378-9c64be4e63b0" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="SMXL6_7_8_Transcription"/>
+      <bbox x="-1810.9721469930457" y="1913.9978207375987" w="140.90854645684615" h="30.026740507672425"/>
+    </glyph>
+    <glyph id="nwtN_f8cfcb0f-5601-4b6a-bae1-801b54636731" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Low_R_FR"/>
+      <bbox x="-1726.6227844539285" y="1768.9254170898946" w="60" h="30"/>
+    </glyph>
+    <glyph id="nwtN_41c73c37-a407-4db5-8e22-b29b5d44e68a" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="MAX2"/>
+      <bbox x="-2156.4234121455793" y="1818.4462951974715" w="60" h="30"/>
+      <glyph id="nwtUOI_1463378c-3afc-4abc-9df9-77be93727779" class="unit of information">
+        <label text="MAX2"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2151.65741699689" y="1812.4462951974715" w="26.50830078125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc" class="and" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <bbox x="-2177.356008345078" y="1859.4351742449253" w="21.42857142857143" h="21.42857142857143"/>
+      <port id="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc.1" x="-2181.641722630792" y="1870.149459959211"/>
+      <port id="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc.2" x="-2151.641722630792" y="1870.149459959211"/>
+    </glyph>
+    <glyph id="nwtN_77665269-fb49-46cf-a6a2-3654ebe54208" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="D14"/>
+      <bbox x="-2228.7461945106406" y="1817.405695330948" w="60" h="30"/>
+      <glyph id="nwtUOI_a41bc847-e2b8-49af-b3f7-e8f724d15db3" class="unit of information">
+        <label text="D14"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2223.851198605903" y="1811.405695330948" w="18.51025390625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="Perception_SL"/>
+      <bbox x="-2108.415587412928" y="1861.2266637327846" w="96.9151202930417" h="34.815015690396734"/>
+    </glyph>
+    <glyph id="nwtN_57c3ee54-845f-4b09-bed0-4483ecc5d94e" class="and" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <bbox x="-1739.5358831288954" y="2061.1518033680295" w="21.42857142857143" h="21.42857142857143"/>
+      <port id="nwtN_57c3ee54-845f-4b09-bed0-4483ecc5d94e.1" x="-1743.8215974146096" y="2071.8660890823153"/>
+      <port id="nwtN_57c3ee54-845f-4b09-bed0-4483ecc5d94e.2" x="-1713.8215974146096" y="2071.8660890823153"/>
+    </glyph>
+    <glyph id="nwtN_d6a435d5-88ed-4d7d-939c-a0606e6b2291" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="D27"/>
+      <bbox x="-2573.099218908261" y="1748.441914912308" w="60" h="30"/>
+      <glyph id="nwtUOI_64db1d60-1380-4fee-bc7b-d63ee32d82fc" class="unit of information">
+        <label text="D27"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2568.204223003523" y="1742.441914912308" w="18.51025390625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_119d7aaf-077f-4af6-8eec-a461a40ffe66" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="MAX3"/>
+      <bbox x="-2447.9088109579443" y="1750.04692014244" w="60" h="30"/>
+      <glyph id="nwtUOI_9326e4e5-2129-437b-a9fa-feca2dc622c3" class="unit of information">
+        <label text="MAX3"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2443.142815809255" y="1744.04692014244" w="26.50830078125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_00f4dd0c-7095-4a30-8a59-0efa632c1e2b" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="MAX4"/>
+      <bbox x="-2341.978465769216" y="1751.6519253725726" w="60" h="30"/>
+      <glyph id="nwtUOI_fda5fb8a-e50b-4004-82f5-a3e99f1f92d0" class="unit of information">
+        <label text="MAX4"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2337.212470620527" y="1745.6519253725726" w="26.50830078125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_530eaf92-f5a2-494c-b89f-86850ae2c79b" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="MAX1"/>
+      <bbox x="-2236.048120580487" y="1751.6519253725726" w="60" h="30"/>
+      <glyph id="nwtUOI_8c940eb6-e7ab-4f3a-82c3-833c3920b3ec" class="unit of information">
+        <label text="MAX1"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2231.282125431798" y="1745.6519253725726" w="26.50830078125" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_bb80086b-2b1a-414a-870f-42f14a8f4dab" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="LBO"/>
+      <bbox x="-2038.6324772742182" y="1754.8619358328372" w="60" h="30"/>
+      <glyph id="nwtUOI_2e1475c3-c466-4183-ac88-bdf79c3b00d5" class="unit of information">
+        <label text="LBO"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2033.7616512913553" y="1748.8619358328372" w="20.0087890625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_38d6ae8a-deff-40a3-be39-ccbdc633d76d" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="CLAMT"/>
+      <bbox x="-2130.1177753917573" y="1753.2569306027046" w="60" h="30"/>
+      <glyph id="nwtUOI_b7fff623-5f31-4daa-b155-1c3cf8956304" class="unit of information">
+        <label text="CLAMT"/>
+        <entity name="macromolecule"/>
+        <bbox x="-2125.448459930568" y="1747.2569306027046" w="32.50244140625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="PhyB"/>
+      <bbox x="-1882.4149321913803" y="1768.5958616047992" w="40.21450176001598" h="23.97089710795381"/>
+      <glyph id="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369_0" class="unit of information">
+        <label text="PhyB"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1875.1227108394253" y="1762.5958616047992" w="23.51123046875" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_97009df2-27dd-451c-b384-c4f71c1304c2" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="High_R_FR"/>
+      <bbox x="-1814.8331916458615" y="1715.3232911563048" w="60" h="30"/>
+    </glyph>
+    <glyph id="nwtN_22c41215-a4db-4b3f-87fa-554a2e9ca0ff" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="PIFs"/>
+      <bbox x="-1819.6369695961412" y="1823.4082950376032" w="60" h="30"/>
+      <glyph id="nwtUOI_451c4c82-de1e-4de3-9042-1f9b98988fba" class="unit of information">
+        <label text="PIFs"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1814.6369695961412" y="1817.4082950376032" w="20.5009765625" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_964d489a-4d6a-42be-ab0f-91b30271ef0e" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="HB21_40_53"/>
+      <bbox x="-2004.5824206819186" y="2198.9036048178177" w="60" h="30"/>
+      <glyph id="nwtUOI_d07f8990-b9d4-4a11-8f7e-8be48a7883ac" class="unit of information">
+        <label text="HB21_40_53"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1999.5824206819186" y="2192.9036048178177" w="48" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_504bd338-6a4a-4b5c-84b1-8a198e0e2482" class="biological activity" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <label text="NCED3"/>
+      <bbox x="-1889.2917498752006" y="2198.903604817818" w="60" h="30"/>
+      <glyph id="nwtUOI_87d290b3-e448-4684-8638-a87a3e5ee09a" class="unit of information">
+        <label text="NCED3"/>
+        <entity name="macromolecule"/>
+        <bbox x="-1884.2917498752006" y="2192.903604817818" w="32.5068359375" h="12"/>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_6a3b14e6-6169-4ade-9424-bece5056d929" class="and" compartmentRef="nwtN_5d1aec1c-7738-4e62-b707-5629b88d91fb">
+      <bbox x="-2006.1130775140846" y="2109.5156490730737" w="21.42857142857143" h="21.42857142857143"/>
+      <port id="nwtN_6a3b14e6-6169-4ade-9424-bece5056d929.1" x="-2010.3987917997988" y="2120.2299347873595"/>
+      <port id="nwtN_6a3b14e6-6169-4ade-9424-bece5056d929.2" x="-1980.3987917997988" y="2120.2299347873595"/>
+    </glyph>
+    <arc id="nwtE_1cc3975c-1641-424d-bb1e-0ca25c8791f7" class="positive influence" source="nwtN_6a3b14e6-6169-4ade-9424-bece5056d929.2" target="nwtN_964d489a-4d6a-42be-ab0f-91b30271ef0e">
+      <start x="-1979.7737917997988" y="2120.2299347873595"/>
+      <end x="-1980.0381061403798" y="2189.3530202547427"/>
+    </arc>
+    <arc id="nwtE_0471a27c-e981-4167-8282-d2726b861dcd" class="positive influence" source="nwtN_97009df2-27dd-451c-b384-c4f71c1304c2" target="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369">
+      <start x="-1808.9196742619804" y="1745.9482911563048"/>
+      <end x="-1840.2465472701513" y="1766.2701620809162"/>
+    </arc>
+    <arc id="nwtE_c73669cc-064e-4512-a503-01f0d520ed18" class="positive influence" source="nwtN_fe6f6034-793b-4283-8306-7296ca71847c" target="c069b28c-39f4-5ecc-6d51-a3839d6844ad">
+      <start x="-2449.7554054444176" y="1859.6018761887312"/>
+      <end x="-2154.230657139517" y="2033.1124534297205"/>
+    </arc>
+    <arc id="nwtE_2491d197-ca35-4cde-a09b-078f92338c8b" class="positive influence" source="c07d06c9-9e29-5cf9-9dfa-def056077fd6" target="cdeb983e-add4-a58b-6b75-5f893aa48e6e">
+      <start x="-2509.934291759487" y="2022.327632790062"/>
+      <end x="-2475.1581270173037" y="2022.9122936162605"/>
+    </arc>
+    <arc id="nwtE_7e46ced6-ee2f-4def-8aea-35e813c3318a" class="negative influence" source="nwtN_fe6f6034-793b-4283-8306-7296ca71847c" target="nwtN_440b39be-a505-469e-9ef8-bf3aa82e63ee">
+      <start x="-2476.328807108289" y="1859.6018761887312"/>
+      <end x="-2476.168176693028" y="1923.5692706670936"/>
+    </arc>
+    <arc id="nwtE_b9452995-0c99-46f8-bee1-e6c5ff313df8" class="positive influence" source="c07d06c9-9e29-5cf9-9dfa-def056077fd6" target="nwtN_0ce4a29d-6288-457c-b30b-b9d35ae8b722">
+      <start x="-2509.934291759487" y="2020.962406932495"/>
+      <end x="-1833.2993182170587" y="2002.1744933211494"/>
+    </arc>
+    <arc id="nwtE_7eeb88c1-eb54-47ae-8ed4-1d0618f28c8f" class="logic arc" source="cdeb983e-add4-a58b-6b75-5f893aa48e6e" target="nwtN_57c3ee54-845f-4b09-bed0-4483ecc5d94e.1">
+      <start x="-2410.7835685598898" y="2024.1865941621647"/>
+      <next x="-1743.7617402817104" y="2039.583072772603"/>
+      <end x="-1744.4465974146096" y="2071.8660890823153"/>
+    </arc>
+    <arc id="nwtE_9119d9f8-b39b-4f75-b902-bd742b2d7b23" class="positive influence" source="nwtN_22c41215-a4db-4b3f-87fa-554a2e9ca0ff" target="3eb14416-951e-0d0d-a310-85f7ced5cb6c">
+      <start x="-1803.9107570031035" y="1854.0332950376032"/>
+      <end x="-2050.4637533268165" y="2123.9259631656805"/>
+    </arc>
+    <arc id="nwtE_7ba40734-08c0-4232-985a-f224ea3ef79e" class="logic arc" source="nwtN_41c73c37-a407-4db5-8e22-b29b5d44e68a" target="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc.1">
+      <start x="-2143.5448539997305" y="1849.0712951974715"/>
+      <end x="-2182.266722630792" y="1870.149459959211"/>
+    </arc>
+    <arc id="nwtE_3216a7c5-3210-46ac-8a15-8c92530be532" class="necessary stimulation" source="nwtN_530eaf92-f5a2-494c-b89f-86850ae2c79b" target="nwtN_38d6ae8a-deff-40a3-be39-ccbdc633d76d">
+      <start x="-2175.423120580487" y="1767.1159405240876"/>
+      <end x="-2133.8674167528625" y="1767.7455724002639"/>
+    </arc>
+    <arc id="nwtE_613109b6-efb0-417f-ab4d-21cf667fb9b4" class="negative influence" source="nwtN_f8cfcb0f-5601-4b6a-bae1-801b54636731" target="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369">
+      <start x="-1727.2477844539285" y="1783.3072963274838"/>
+      <end x="-1840.575634056697" y="1781.0199396973169"/>
+    </arc>
+    <arc id="nwtE_25b823a0-296a-4fb8-92fd-3a6889b0c64b" class="logic arc" source="nwtN_0ce4a29d-6288-457c-b30b-b9d35ae8b722" target="nwtN_57c3ee54-845f-4b09-bed0-4483ecc5d94e.1">
+      <start x="-1783.9033470981271" y="2016.8624009611458"/>
+      <end x="-1744.4465974146096" y="2071.8660890823153"/>
+    </arc>
+    <arc id="nwtE_4ce6a3ea-d736-41d8-b265-926b8310e3ba" class="positive influence" source="b58702a8-5ba7-3f41-c295-28d030ddf6ea" target="3eb14416-951e-0d0d-a310-85f7ced5cb6c">
+      <start x="-1974.8965341612316" y="1982.2871110340009"/>
+      <end x="-2056.281520396856" y="2123.5255312974737"/>
+    </arc>
+    <arc id="nwtE_100fe269-47f9-4272-97b4-7a4003bcaee3" class="necessary stimulation" source="nwtN_38d6ae8a-deff-40a3-be39-ccbdc633d76d" target="nwtN_bb80086b-2b1a-414a-870f-42f14a8f4dab">
+      <start x="-2069.4927753917573" y="1768.7942113044592"/>
+      <end x="-2042.3819964679994" y="1769.2698390048758"/>
+    </arc>
+    <arc id="nwtE_d97fd706-4157-40bc-b676-dd0f854c5acc" class="negative influence" source="a0fb3385-142e-dfce-a2ea-f9d2189c1076" target="3eb14416-951e-0d0d-a310-85f7ced5cb6c">
+      <start x="-2165.4462817928525" y="2141.8403604854957"/>
+      <end x="-2098.470235011488" y="2141.85246465876"/>
+    </arc>
+    <arc id="nwtE_e0b43e60-9658-421e-8f05-058f89570f4c" class="necessary stimulation" source="ad2aa3b9-98ee-bc6e-963f-9a75d3a1eb4d" target="f868e1a6-c28d-413e-49d6-9332301251df">
+      <start x="-1695.422966318241" y="2138.1429775063652"/>
+      <end x="-1629.5736377186647" y="2141.0085099371113"/>
+    </arc>
+    <arc id="nwtE_bdff2269-76e6-43ca-80d7-4e219d4daf94" class="negative influence" source="nwtN_82a8d94f-32a9-4040-8af3-fc67c5041701" target="ad2aa3b9-98ee-bc6e-963f-9a75d3a1eb4d">
+      <start x="-1743.8783529039824" y="2201.193670630973"/>
+      <end x="-1743.1435617873308" y="2158.7818858342966"/>
+    </arc>
+    <arc id="nwtE_3ce9ae46-08c8-4bee-ae22-35201dd2ddd3" class="positive influence" source="nwtN_964d489a-4d6a-42be-ab0f-91b30271ef0e" target="nwtN_504bd338-6a4a-4b5c-84b1-8a198e0e2482">
+      <start x="-1943.9574206819186" y="2213.9036048178177"/>
+      <end x="-1893.0417498752006" y="2213.903604817818"/>
+    </arc>
+    <arc id="nwtE_4d21d1a3-3a0a-4122-9b63-a1d48bafbc42" class="negative influence" source="c069b28c-39f4-5ecc-6d51-a3839d6844ad" target="3eb14416-951e-0d0d-a310-85f7ced5cb6c">
+      <start x="-2115.009662312728" y="2065.9446720123424"/>
+      <end x="-2077.294476742253" y="2125.38879300447"/>
+    </arc>
+    <arc id="nwtE_4834f903-41f0-4d6b-994f-037c76d14166" class="negative influence" source="nwtN_440b39be-a505-469e-9ef8-bf3aa82e63ee" target="cdeb983e-add4-a58b-6b75-5f893aa48e6e">
+      <start x="-2469.6130859821565" y="1955.8192675142227"/>
+      <end x="-2448.3066744341777" y="2006.9316794868084"/>
+    </arc>
+    <arc id="nwtE_f6a54c7f-5976-4eb1-a094-be71123390a3" class="positive influence" source="c069b28c-39f4-5ecc-6d51-a3839d6844ad" target="ad2aa3b9-98ee-bc6e-963f-9a75d3a1eb4d">
+      <start x="-2094.2981704057606" y="2058.780141942004"/>
+      <next x="-1845.785571459906" y="2127.434292816237"/>
+      <end x="-1793.1916968835637" y="2131.849218819712"/>
+    </arc>
+    <arc id="nwtE_5fa4d12d-b3f5-471f-923b-1cb917d4e35d" class="positive influence" source="nwtN_440b39be-a505-469e-9ef8-bf3aa82e63ee" target="nwtN_119d7aaf-077f-4af6-8eec-a461a40ffe66">
+      <start x="-2470.9328005030675" y="1924.5692675142227"/>
+      <end x="-2424.0881393202453" y="1783.6373916250977"/>
+    </arc>
+    <arc id="nwtE_e0b50a10-8a9a-43ca-89f6-49a58778128b" class="positive influence" source="a0fb3385-142e-dfce-a2ea-f9d2189c1076" target="ad2aa3b9-98ee-bc6e-963f-9a75d3a1eb4d">
+      <start x="-2165.4462817928525" y="2141.446280667525"/>
+      <end x="-1793.202397792024" y="2136.723552339382"/>
+    </arc>
+    <arc id="nwtE_c823d0a3-fe8e-4ce2-9b09-36caa8f7f9e9" class="negative influence" source="nwtN_f8cfcb0f-5601-4b6a-bae1-801b54636731" target="nwtN_697ba295-3dbb-45b9-9981-b410053929c1">
+      <start x="-1696.620898122805" y="1799.5504170898946"/>
+      <end x="-1696.6132971783954" y="1862.5111321667935"/>
+    </arc>
+    <arc id="nwtE_f7ce5d40-1e80-44aa-a948-6a9fd0a387f4" class="negative influence" source="c069b28c-39f4-5ecc-6d51-a3839d6844ad" target="nwtN_41c73c37-a407-4db5-8e22-b29b5d44e68a">
+      <start x="-2125.0312577954114" y="2034.6946720123424"/>
+      <end x="-2126.308407328499" y="1850.071271271784"/>
+    </arc>
+    <arc id="nwtE_f17d5d0b-972b-43cc-b6a5-5bc325d940f3" class="negative influence" source="nwtN_440b39be-a505-469e-9ef8-bf3aa82e63ee" target="a0fb3385-142e-dfce-a2ea-f9d2189c1076">
+      <start x="-2506.7514291719813" y="1940.0412457026578"/>
+      <next x="-2581.869859227134" y="1939.6659066577943"/>
+      <next x="-2581.2251426327266" y="2136.7976139496764"/>
+      <end x="-2227.6961962810187" y="2141.421221252084"/>
+    </arc>
+    <arc id="nwtE_1fe93de0-1a24-498c-90fb-c001681a7cb5" class="negative influence" source="nwtN_9017b46a-d6f9-49a4-8f39-15e615d65ab8" target="nwtN_a8557400-5faf-47ea-8378-9c64be4e63b0">
+      <start x="-1933.3898066457346" y="1872.4329373722371"/>
+      <end x="-1777.6679075950133" y="1912.976539037663"/>
+    </arc>
+    <arc id="nwtE_02541fc8-c1d4-4048-8bae-9a9b51ccd338" class="logic arc" source="nwtN_77665269-fb49-46cf-a6a2-3654ebe54208" target="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc.1">
+      <start x="-2185.455724467093" y="1848.030695330948"/>
+      <end x="-2182.266722630792" y="1870.149459959211"/>
+    </arc>
+    <arc id="nwtE_6efbf400-aabe-4e7e-9dd7-443e8f70fa9c" class="negative influence" source="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369" target="nwtN_41c73c37-a407-4db5-8e22-b29b5d44e68a">
+      <start x="-1862.2197262014884" y="1793.1917587127532"/>
+      <next x="-1861.9439658886342" y="1832.7285319947434"/>
+      <end x="-2094.798415828108" y="1833.3604690247223"/>
+    </arc>
+    <arc id="nwtE_beb1ebd5-de18-4719-a2e5-cdcac4d7764e" class="positive influence" source="nwtN_504bd338-6a4a-4b5c-84b1-8a198e0e2482" target="nwtN_82a8d94f-32a9-4040-8af3-fc67c5041701">
+      <start x="-1828.6667498752006" y="2214.5038030919327"/>
+      <end x="-1781.4956241328555" y="2215.4282774840503"/>
+    </arc>
+    <arc id="nwtE_763d61bd-8f64-4f07-a0c1-7464fcb03bde" class="positive influence" source="a0fb3385-142e-dfce-a2ea-f9d2189c1076" target="cdeb983e-add4-a58b-6b75-5f893aa48e6e">
+      <start x="-2226.6962817928525" y="2141.028502015369"/>
+      <next x="-2439.280075692852" y="2135.431395972052"/>
+      <end x="-2441.0520930526136" y="2042.2291303633835"/>
+    </arc>
+    <arc id="nwtE_50800aa2-f33d-4110-91bf-d42f955cf7fa" class="positive influence" source="c069b28c-39f4-5ecc-6d51-a3839d6844ad" target="f868e1a6-c28d-413e-49d6-9332301251df">
+      <start x="-2094.2981704057606" y="2050.2580217854725"/>
+      <next x="-1582.725341962136" y="2049.2281905713003"/>
+      <end x="-1579.7468841136977" y="2117.3930529394233"/>
+    </arc>
+    <arc id="nwtE_3bfe051d-dda4-4f82-9bb7-57e8fc732502" class="positive influence" source="c069b28c-39f4-5ecc-6d51-a3839d6844ad" target="a0fb3385-142e-dfce-a2ea-f9d2189c1076">
+      <start x="-2155.5481704057606" y="2050.41442851993"/>
+      <next x="-2195.5562063947964" y="2050.5382169857503"/>
+      <end x="-2195.9654986950877" y="2123.084875548348"/>
+    </arc>
+    <arc id="nwtE_ad252998-fe8f-43e8-bec0-5047ffeed7f4" class="positive influence" source="nwtN_a8557400-5faf-47ea-8378-9c64be4e63b0" target="nwtN_9017b46a-d6f9-49a4-8f39-15e615d65ab8">
+      <start x="-1811.5971469930457" y="1921.6232999169179"/>
+      <end x="-1930.5788634293347" y="1886.8691195335894"/>
+    </arc>
+    <arc id="nwtE_22009980-9378-4227-a923-c8e92c294367" class="necessary stimulation" source="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc.2" target="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa">
+      <start x="-2151.016722630792" y="1870.149459959211"/>
+      <end x="-2112.155750840863" y="1874.4828096461251"/>
+    </arc>
+    <arc id="nwtE_dc20d883-76f4-4ae8-ae0f-fa934ac55cdc" class="negative influence" source="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa" target="nwtN_00f4dd0c-7095-4a30-8a59-0efa632c1e2b">
+      <start x="-2100.5408936443155" y="1860.6016637327846"/>
+      <end x="-2280.439618107177" y="1780.66583243863"/>
+    </arc>
+    <arc id="nwtE_7dc98a4c-0e96-4808-8f2c-54b47d423e80" class="positive influence" source="nwtN_697ba295-3dbb-45b9-9981-b410053929c1" target="nwtN_9017b46a-d6f9-49a4-8f39-15e615d65ab8">
+      <start x="-1727.236290122081" y="1878.1617423908287"/>
+      <end x="-1930.2663871791574" y="1871.7019726175718"/>
+    </arc>
+    <arc id="nwtE_c27d6a47-d283-498e-aab5-00047f0ceb71" class="negative influence" source="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa" target="a0fb3385-142e-dfce-a2ea-f9d2189c1076">
+      <start/>
+      <next x="-2065.24055210245" y="1888.8489298519717"/>
+      <end x="-2187.5315139442955" y="2125.3215737257106"/>
+    </arc>
+    <arc id="nwtE_4c60f9f2-07c1-4cf2-9e54-372f857fea8c" class="negative influence" source="nwtN_a351df6c-48f3-4df7-b93a-ced4901e4288" target="d76d2811-fae7-9ce6-3b43-4e06e29e5e85">
+      <start x="-2183.3150463352267" y="1956.3218412562017"/>
+      <end x="-2183.4241147185403" y="1944.7949893434436"/>
+    </arc>
+    <arc id="nwtE_64016046-d536-4c17-b196-cd57c912e820" class="necessary stimulation" source="nwtN_00f4dd0c-7095-4a30-8a59-0efa632c1e2b" target="nwtN_530eaf92-f5a2-494c-b89f-86850ae2c79b">
+      <start x="-2281.353465769216" y="1766.6519253725726"/>
+      <end x="-2239.798120580487" y="1766.6519253725726"/>
+    </arc>
+    <arc id="nwtE_2e6c1b12-1f68-4bb8-babc-a4dcb99d4418" class="necessary stimulation" source="nwtN_bb80086b-2b1a-414a-870f-42f14a8f4dab" target="d76d2811-fae7-9ce6-3b43-4e06e29e5e85">
+      <start x="-2008.7709798668543" y="1785.4869358328372"/>
+      <next x="-2010.0206705650012" y="1926.4692581626482"/>
+      <end x="-2149.831571965748" y="1927.8393087983854"/>
+    </arc>
+    <arc id="nwtE_57c2f0f8-d7c1-4f99-bde0-652a1d469681" class="negative influence" source="nwtN_697ba295-3dbb-45b9-9981-b410053929c1" target="b58702a8-5ba7-3f41-c295-28d030ddf6ea">
+      <start x="-1727.236290122081" y="1888.887224710166"/>
+      <end x="-1932.956133602765" y="1954.3890445726122"/>
+    </arc>
+    <arc id="nwtE_4e295a2d-7e16-446c-bf76-e357fd6bb0f4" class="positive influence" source="nwtN_57c3ee54-845f-4b09-bed0-4483ecc5d94e.2" target="f868e1a6-c28d-413e-49d6-9332301251df">
+      <start x="-1713.1965974146096" y="2071.8660890823153"/>
+      <end x="-1629.2742386492703" y="2119.159816024369"/>
+    </arc>
+    <arc id="nwtE_7ad95ff7-7073-44af-9322-447dddae1db1" class="positive influence" source="nwtN_440b39be-a505-469e-9ef8-bf3aa82e63ee" target="nwtN_00f4dd0c-7095-4a30-8a59-0efa632c1e2b">
+      <start x="-2461.347258299234" y="1924.5692675142227"/>
+      <end x="-2328.9050415161737" y="1784.5472287237171"/>
+    </arc>
+    <arc id="nwtE_7b6c5359-fb1a-4bdc-85d0-b5b003847135" class="positive influence" source="nwtN_fe6f6034-793b-4283-8306-7296ca71847c" target="cdeb983e-add4-a58b-6b75-5f893aa48e6e">
+      <start x="-2473.3249615125865" y="1859.6018761887312"/>
+      <end x="-2445.049042740179" y="2004.787326837014"/>
+    </arc>
+    <arc id="nwtE_9a88014c-c59f-46d2-9e8e-9066aac32421" class="negative influence" source="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369" target="3eb14416-951e-0d0d-a310-85f7ced5cb6c">
+      <start x="-1862.083635027336" y="1762.0958616047992"/>
+      <next x="-1861.3267857853953" y="1699.650292444009"/>
+      <next x="-1530.6386263491258" y="1699.0044556270584"/>
+      <next x="-1523.718768250464" y="2249.079334747927"/>
+      <next x="-2064.487145035976" y="2249.125517573994"/>
+      <end x="-2066.479767985987" y="2158.48293850733"/>
+    </arc>
+    <arc id="nwtE_fdc74df9-f0f4-4ca3-9d8f-d708cc2b10ee" class="positive influence" source="nwtN_97009df2-27dd-451c-b384-c4f71c1304c2" target="nwtN_697ba295-3dbb-45b9-9981-b410053929c1">
+      <start x="-1775.5700984744906" y="1745.9482911563048"/>
+      <end x="-1707.4680038970657" y="1860.8230104413285"/>
+    </arc>
+    <arc id="nwtE_5f76cba1-e433-4be8-a3b5-f42ab8128cfa" class="negative influence" source="84d6ceb8-8fa8-0272-c6a5-6f64a53f1369" target="nwtN_00f4dd0c-7095-4a30-8a59-0efa632c1e2b">
+      <start x="-1862.2493007973026" y="1762.0958616047992"/>
+      <next x="-1862.11233075005" y="1718.726035177886"/>
+      <next x="-2312.390878907157" y="1717.1226908630604"/>
+      <end x="-2312.1549448923415" y="1745.4574602327064"/>
+    </arc>
+    <arc id="nwtE_ee06e5ad-5964-42bd-bb7b-e352aa516f77" class="logic arc" source="d76d2811-fae7-9ce6-3b43-4e06e29e5e85" target="nwtN_ea91b00c-eaf0-4832-add7-166de32531bc.1">
+      <start x="-2179.0195435752257" y="1912.5450341062356"/>
+      <end x="-2182.266722630792" y="1870.149459959211"/>
+    </arc>
+    <arc id="nwtE_525a28bd-75a5-4ca6-96d9-0807f85b87db" class="necessary stimulation" source="nwtN_d6a435d5-88ed-4d7d-939c-a0606e6b2291" target="nwtN_119d7aaf-077f-4af6-8eec-a461a40ffe66">
+      <start x="-2512.474218908261" y="1763.8345431174362"/>
+      <end x="-2451.658554168429" y="1764.6142311269211"/>
+    </arc>
+    <arc id="nwtE_3e1108b5-648e-48b4-8297-fb5b1f5b8008" class="negative influence" source="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa" target="nwtN_119d7aaf-077f-4af6-8eec-a461a40ffe66">
+      <start x="-2109.040587412928" y="1863.0589770136169"/>
+      <end x="-2386.3306498993525" y="1775.0675058862203"/>
+    </arc>
+    <arc id="nwtE_321d4899-1a92-481f-b4c7-314fc1575cbb" class="negative influence" source="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa" target="nwtN_9017b46a-d6f9-49a4-8f39-15e615d65ab8">
+      <start x="-2010.8754671198863" y="1874.5384855705597"/>
+      <end x="-1995.6363432023163" y="1873.2668594286415"/>
+    </arc>
+    <arc id="nwtE_34f67ca6-7f44-4f26-90da-27b7d99b3d94" class="necessary stimulation" source="nwtN_119d7aaf-077f-4af6-8eec-a461a40ffe66" target="nwtN_00f4dd0c-7095-4a30-8a59-0efa632c1e2b">
+      <start x="-2387.2838109579443" y="1765.5109352939553"/>
+      <end x="-2345.7281071303214" y="1766.1405671701316"/>
+    </arc>
+    <arc id="nwtE_827b855b-e0f6-48e0-b226-12c4c9bc8a44" class="negative influence" source="nwtN_71e0ec41-f0c5-4101-819f-0797e4e119fa" target="nwtN_530eaf92-f5a2-494c-b89f-86850ae2c79b">
+      <start x="-2083.482923784018" y="1860.6016637327846"/>
+      <end x="-2184.870357741938" y="1782.8852879399278"/>
+    </arc>
+    <arc id="nwtE_95e69516-e30b-4890-885d-de96d28fbe13" class="negative influence" source="nwtN_97009df2-27dd-451c-b384-c4f71c1304c2" target="nwtN_22c41215-a4db-4b3f-87fa-554a2e9ca0ff">
+      <start x="-1785.5276360903058" y="1745.9482911563048"/>
+      <end x="-1788.8981245380762" y="1821.7842812311371"/>
+    </arc>
+    <arc id="nwtE_d7ce6274-31bf-4495-af3a-ba780a6972b9" class="negative influence" source="nwtN_9017b46a-d6f9-49a4-8f39-15e615d65ab8" target="b58702a8-5ba7-3f41-c295-28d030ddf6ea">
+      <start x="-1964.1176913120528" y="1886.253205609008"/>
+      <end x="-1964.5088812414544" y="1945.6628617379733"/>
+    </arc>
+    <arc id="nwtE_a9de50ae-9fa0-4886-943a-c7d4b8c358f1" class="negative influence" source="3eb14416-951e-0d0d-a310-85f7ced5cb6c" target="ad2aa3b9-98ee-bc6e-963f-9a75d3a1eb4d">
+      <start x="-2036.2202350278185" y="2141.3125038520047"/>
+      <end x="-1791.0774905663452" y="2136.9445508273725"/>
+    </arc>
+    <arc id="nwtE_97303d35-d19c-47c5-8c69-6a458031b100" class="logic arc" source="nwtN_f8cfcb0f-5601-4b6a-bae1-801b54636731" target="nwtN_6a3b14e6-6169-4ade-9424-bece5056d929.1">
+      <start x="-1710.5041772664354" y="1799.5504170898946"/>
+      <end x="-2011.0237917997988" y="2120.2299347873595"/>
+    </arc>
+    <arc id="nwtE_88c30c2e-89a8-4e04-9fab-b4f108c416a5" class="logic arc" source="3eb14416-951e-0d0d-a310-85f7ced5cb6c" target="nwtN_6a3b14e6-6169-4ade-9424-bece5056d929.1">
+      <start x="-2036.2202350278185" y="2132.587389495011"/>
+      <end x="-2011.0237917997988" y="2120.2299347873595"/>
+    </arc>
+  </map>
+</sbgn>
